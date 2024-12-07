@@ -10,6 +10,12 @@ twitter:
   title: 'Twitter'
   fa-icon: ''
 
+bluesky:
+  id: 'pwoods.bsky.social'
+  href: 'https://bsky.app/profile/'
+  title: 'Bluesky'
+  fa-icon: ''
+
 googlescholar:
   id: 't3iVEl8AAAAJ'
   href: 'https://scholar.google.com/citations?hl=en&user='
