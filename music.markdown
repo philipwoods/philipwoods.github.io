@@ -49,7 +49,7 @@ Mixed choir SSAATTBB
 
 For years, I and other members of OcTech have felt that the Sandia National Labs
 long-term nuclear waste warning message, best known as an
-[internet meme](https://knowyourmeme.com/memes/this-place-is-not-a-place-of-honor)
+[internet meme](https://knowyourmeme.com/memes/this-place-is-not-a-place-of-honor),
 is sufficiently creepy and compelling that it deserves to be set to music. As we
 couldn't find existing settings of the text, I decided to make my own. I thought it
 would be interesting to pair this warning of imminent danger with Psalm 23, a
