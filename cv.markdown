@@ -9,5 +9,5 @@ permalink: /cv/
 
 ### Choral CV
 
-[Download PDF](/assets/cv/Choral-CV-20241206.pdf)
+[Download PDF](/assets/cv/Choral-CV-20241209.pdf)
 
