@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hello World!"
 date:   2024-12-08 20:45:00 -0800
 published: true

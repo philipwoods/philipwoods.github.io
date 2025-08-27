@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Music"
+    url: /music/
+  - title: "Posts"
+    url: /posts-archive/
+  - title: "CV"
+    url: /cv/
+  # - title: "Sitemap"
+  #   url: /sitemap/
