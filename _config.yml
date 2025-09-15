@@ -155,7 +155,10 @@ footer:
       url: "https://github.com/philipwoods"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/philipwoods93/"
+      #url: "https://www.instagram.com/philipwoods93/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/photos/138566245@N03/"
   since: "2022"
 
 
