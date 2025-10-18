@@ -37,4 +37,5 @@ To see more, visit my Flickr!
 </div>
 
 *Gallery made with [nanogallery2](https://nanogallery2.nanostudio.org/)*
+{: .text-center}
 
