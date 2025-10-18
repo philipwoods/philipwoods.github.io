@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Philip Woods"
-  avatar           : "/assets/headshot-square.jpg"
+  avatar           : "/assets/images/headshot-square.jpg"
   bio              : "Microbiologist and musician. Pronouns: he/him"
   location         : "Pasadena, CA"
   email            : "philipwoods93@gmail.com"
