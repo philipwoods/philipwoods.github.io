@@ -312,6 +312,10 @@ compress_html:
     envs: development
 
 
+# Custom scripts
+after_footer_scripts:
+  - /assets/js/jquery.nanogallery2.min.js
+
 # Defaults
 defaults:
   # _posts

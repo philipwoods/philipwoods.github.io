@@ -6,6 +6,8 @@ main:
     url: /teaching/
   - title: "Music"
     url: /music/
+  - title: "Art"
+    url: /art/
   - title: "Posts"
     url: /posts-archive/
   - title: "CV"
