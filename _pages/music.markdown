@@ -2,15 +2,24 @@
 layout: single
 title: Music
 permalink: /music/
+toc: true
+classes: false
 ---
 
-# Choral Performance
+# Choral Performance and Leadership
 
-I'm a founding member of OcTech, Caltech's independent choral octet.
+## OcTech
+
+I'm a founding member of OcTech, Caltech's independent choral octet. Since its inception, I have been
+a performer, part-time conductor, music librarian, and music director for the group.
 [Check out our website](https://octech.sites.caltech.edu/)
 for information about our performances, albums, and more.
 
-I also perform with the Caltech Glee Club and the Caltech Chamber Singers.
+## Caltech Glee Club and Chamber Singers
+
+I have performed with the Caltech Glee Club for the duration of my graduate studies. I also joined a slightly
+more selective group, the Caltech Chamber Singers, after a few years of singing with the Glee Club. I currently
+perform in quarterly concerts with both groups.
 
 # Compositions and Arrangements
 
