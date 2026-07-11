@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ### Academic CV
 
-[Download PDF](/assets/cv/Philip-Woods-CV-20240405.pdf)
+[Download PDF](/assets/cv/Philip-Woods-CV-20260710.pdf)
 
 ### Choral CV
 
